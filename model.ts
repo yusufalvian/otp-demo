@@ -1,0 +1,5 @@
+export interface Users {
+    email: string;
+    password: string;
+    is_active: boolean;
+}
